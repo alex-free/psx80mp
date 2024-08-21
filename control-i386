@@ -1,0 +1,6 @@
+Package: psx80mp
+Version: 2.0.1
+Maintainer: alex-free
+Architecture: i386
+Homepage: https://alex-free.github.io/psx80mp
+Description: Patch PS1 and PS2 CD games to work on early PS2 models when burned to 80 minute/700MB CD-Rs.
