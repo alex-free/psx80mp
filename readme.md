@@ -94,6 +94,7 @@ These games have been verified to either not boot at all on an affected PS2 cons
 | --------------- | ------------- |
 | [Biohazard 2 (Japan) (Disc 1) (Leon-hen)](http://redump.org/disc/1525/) | 1 |
 | [Biohazard 2 (Japan) (Disc 2) (Claire-hen)](http://redump.org/disc/1526/) | 1 |
+| [Diablo (USA)](http://redump.org/disc/31/) | 1 |
 | [Final Fantasy IX (Europe) (Disc 1)](http://redump.org/disc/2371/) | 1 |
 | [Final Fantasy IX (Europe) (Disc 2)](http://redump.org/disc/2370/) | 1 |
 | [Final Fantasy IX (Europe) (Disc 3)](http://redump.org/disc/2370/) | 1 |
