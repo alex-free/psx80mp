@@ -150,6 +150,7 @@ These games have been verified to either not boot at all on an affected PS2 cons
 | [Resident Evil: Director's Cut: Dual Shock Ver. (USA)](http://redump.org/disc/125/) | 1 |
 | [Rockman X4 (Japan)](http://redump.org/disc/4777/) | 1 |
 | [Rockman X4 (Japan) (Special Box)](http://redump.org/disc/33903/) | 1 |
+| [Rollcage Stage II (USA)](http://redump.org/disc/6722/) | 1 |
 | [Street Fighter Alpha 3 (USA)](http://redump.org/disc/508/) | 2 |
 
 ## License
