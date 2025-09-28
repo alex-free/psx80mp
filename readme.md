@@ -119,6 +119,7 @@ These games have been verified to either not boot at all on an affected PS2 cons
 | [Final Fantasy IX (USA) (Disc 2)](http://redump.org/disc/74/) | 1 |
 | [Final Fantasy IX (USA) (Disc 3)](http://redump.org/disc/75/) | 1 |
 | [Final Fantasy IX (USA) (Disc 4)](http://redump.org/disc/5029/) | 1 |
+| [Gran Turismo 2 (Disc 2) (Gran Turismo Mode)](http://redump.org/disc/83/) | 1 |
 | [I.Q: Intelligent Qube (Japan)](http://redump.org/disc/2267/) | 1 |
 | [I.Q: Intelligent Qube (Japan) (Demo)](http://redump.org/disc/68874/) | 1 |
 | [I.Q: Intelligent Qube (USA)](http://redump.org/disc/7932/) | 1 |
